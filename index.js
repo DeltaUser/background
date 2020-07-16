@@ -110,3 +110,5 @@ const particlejs = {
 }
 
 particlesJS("particles-js", particlejs);
+
+return particlejs;
