@@ -8,7 +8,7 @@ const particlejs = {
           }
        },
        "color": {
-          "value": "#FFFFFF"
+          "value": "#000000"
        },
        "shape": {
           "type": "circle",
